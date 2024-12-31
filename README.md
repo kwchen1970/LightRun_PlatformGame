@@ -13,5 +13,9 @@ Platform game made in Unity 2d inspired by Super Mario. The goal is to make it t
 ## Link to Play 
 To play the game [click here](https://kwchen.itch.io/lightrun)
 
+## Sources
+[Brackeys channel](https://www.youtube.com/@Brackeys)
+Used mostly Brackeys youtube channel tutorials and some other youtube tutorials to help create the game. 
+
 
 
