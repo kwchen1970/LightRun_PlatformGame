@@ -1,4 +1,7 @@
 # LightRun_PlatformGame
+## Link to Play 
+To play the game [click here](https://kwchen.itch.io/lightrun)
+
 ## Description
 Platform game made in Unity 2d inspired by Super Mario. The goal is to make it to the end by avoiding the obstacles of enemy sprites. The character comes with a shooting weapon, and a close combat weapon in order to destroy obstacles.
 ## Screenshots
@@ -9,9 +12,6 @@ Platform game made in Unity 2d inspired by Super Mario. The goal is to make it t
 - Player motion and attack logic
 - AI enemy path finding
 - Handdrawn sprites on Procreate
-
-## Link to Play 
-To play the game [click here](https://kwchen.itch.io/lightrun)
 
 ## Sources
 [Brackeys channel](https://www.youtube.com/@Brackeys)<br />
